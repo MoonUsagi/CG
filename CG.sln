@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CG2", "CG2\CG2.vcxproj", "{53E8CDC0-A134-449D-9229-213776FF1D47}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CG3", "CG3\CG3.vcxproj", "{F8421276-1923-4D00-AEAC-2082A0492D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E8CDC0-A134-449D-9229-213776FF1D47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53E8CDC0-A134-449D-9229-213776FF1D47}.Debug|Win32.Build.0 = Debug|Win32
+		{53E8CDC0-A134-449D-9229-213776FF1D47}.Release|Win32.ActiveCfg = Release|Win32
+		{53E8CDC0-A134-449D-9229-213776FF1D47}.Release|Win32.Build.0 = Release|Win32
+		{F8421276-1923-4D00-AEAC-2082A0492D2F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8421276-1923-4D00-AEAC-2082A0492D2F}.Debug|Win32.Build.0 = Debug|Win32
+		{F8421276-1923-4D00-AEAC-2082A0492D2F}.Release|Win32.ActiveCfg = Release|Win32
+		{F8421276-1923-4D00-AEAC-2082A0492D2F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
